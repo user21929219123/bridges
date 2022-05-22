@@ -4,11 +4,11 @@ body {
 }
 
 .rtp{
-height: 190px;
-width: 340px;
+height: 200px;
+width: 27%;
 border: 6px solid darkorange;
 border-radius: 30px;
-margin:30px 10px 15px 80px;
+margin:30px 10px 0px 40px;
 
 
 }
@@ -17,4 +17,7 @@ width: 90%;
 }
 h1{
 color:darkorange;
+}
+div{
+display: block;
 }
